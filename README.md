@@ -56,7 +56,3 @@ Replace [IP Address] with the IP address for which you want to find the output i
 
 - A C compiler (e.g., GCC)
 - Standard C libraries
-
-## 📜 License
-
-- Distributed under the MIT License. See `LICENSE` for more information.
